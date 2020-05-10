@@ -1,0 +1,3 @@
+external_id,opted_in,external_id_type,email,locale,ip,dob,address,city,state,zip,country,gender,first_name,last_name,referral,phone_numbers,custom_1,custom_2
+NONE,true,NONE,mj@temp-mail.org,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,0,Mike,Jackson,NONE,+1 555-555-1212,NONE,NONE
+NONE,true,NONE,joe.johnson@spamhole.com,NONE,NONE,NONE,NONE,NONE,NONE,NONE,NONE,0,Joe,Johnson,NONE,+1 569-483-2388,NONE,NONE
